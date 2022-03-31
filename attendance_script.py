@@ -10,7 +10,7 @@ def main():
     LEAVE_HOUR = "17" #Time you finish working 
     HOLIDAYS = [] #Days you've been on vacation, example: [1, 5, 18] 
 
-    ID = "877" #Self user ERP id
+    ID = "" #Self user ERP id
     EMPLOYE_ID = "__export__.hr_employee_" + ID
 
     ACTION_ENTER = "Registrar entrada"
